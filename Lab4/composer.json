@@ -1,0 +1,9 @@
+{
+    "description": "items",
+    "type": "project",
+
+    "autoload": {
+        "classmap": ["models"],
+        "files": ["config.php"]
+    }
+}
